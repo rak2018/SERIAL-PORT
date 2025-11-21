@@ -1,6 +1,7 @@
 
 ### SMITH CHART BASICS :
 ###Introduction
+---------------------------------------
 The Smith Chart is a powerful graphical tool used extensively in Radio Frequency (RF) and
 microwave engineering. Developed by Philip Smith in the 1930s, it provides a
 straighƞorward method for visualizing and solving complex problems related to
